@@ -1,0 +1,17 @@
+/Users/yellobunny/Projects/c_sharp/structure/bin/Debug/net7.0/structure
+/Users/yellobunny/Projects/c_sharp/structure/bin/Debug/net7.0/structure.deps.json
+/Users/yellobunny/Projects/c_sharp/structure/bin/Debug/net7.0/structure.runtimeconfig.json
+/Users/yellobunny/Projects/c_sharp/structure/bin/Debug/net7.0/structure.dll
+/Users/yellobunny/Projects/c_sharp/structure/bin/Debug/net7.0/structure.pdb
+/Users/yellobunny/Projects/c_sharp/structure/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/yellobunny/Projects/c_sharp/structure/obj/Debug/net7.0/structure.csproj.AssemblyReference.cache
+/Users/yellobunny/Projects/c_sharp/structure/obj/Debug/net7.0/structure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yellobunny/Projects/c_sharp/structure/obj/Debug/net7.0/structure.AssemblyInfoInputs.cache
+/Users/yellobunny/Projects/c_sharp/structure/obj/Debug/net7.0/structure.AssemblyInfo.cs
+/Users/yellobunny/Projects/c_sharp/structure/obj/Debug/net7.0/structure.csproj.CoreCompileInputs.cache
+/Users/yellobunny/Projects/c_sharp/structure/obj/Debug/net7.0/structure.csproj.CopyComplete
+/Users/yellobunny/Projects/c_sharp/structure/obj/Debug/net7.0/structure.dll
+/Users/yellobunny/Projects/c_sharp/structure/obj/Debug/net7.0/refint/structure.dll
+/Users/yellobunny/Projects/c_sharp/structure/obj/Debug/net7.0/structure.pdb
+/Users/yellobunny/Projects/c_sharp/structure/obj/Debug/net7.0/structure.genruntimeconfig.cache
+/Users/yellobunny/Projects/c_sharp/structure/obj/Debug/net7.0/ref/structure.dll

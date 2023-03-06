@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "78gmNW2UHDIuNs+1zmHnnZxjAyLVc2ZJ+g7rK8MrY/3DSCWZqNrQNgFqPuTxrSvHpBhUWinR5Q7r2n4k6v4TMA==",
+  "success": true,
+  "projectFilePath": "/Users/yellobunny/Projects/c_sharp/structure/structure.csproj",
+  "expectedPackageFiles": [
+    "/Users/yellobunny/.nuget/packages/newtonsoft.json/13.0.3-beta1/newtonsoft.json.13.0.3-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}
